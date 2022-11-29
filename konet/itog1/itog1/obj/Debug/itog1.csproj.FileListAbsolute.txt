@@ -1,0 +1,6 @@
+C:\Users\79963\source\repos\itog1\itog1\bin\Debug\itog1.dll
+C:\Users\79963\source\repos\itog1\itog1\bin\Debug\itog1.pdb
+C:\Users\79963\source\repos\itog1\itog1\obj\Debug\itog1.csproj.AssemblyReference.cache
+C:\Users\79963\source\repos\itog1\itog1\obj\Debug\itog1.csproj.CoreCompileInputs.cache
+C:\Users\79963\source\repos\itog1\itog1\obj\Debug\itog1.dll
+C:\Users\79963\source\repos\itog1\itog1\obj\Debug\itog1.pdb
